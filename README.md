@@ -1,1 +1,1 @@
-amazing reamme.md (my first css code)
+amazing readme.md (my first css code)
